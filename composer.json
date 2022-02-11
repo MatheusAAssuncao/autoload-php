@@ -1,0 +1,16 @@
+{
+    "name": "autoload/php",
+    "description": "Testes com autoload do PHP",
+    "authors": [
+        {
+            "name": "Matheus",
+            "email": "matheus.tba@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Source\\": "src"
+        }
+    },
+    "require": {}
+}
